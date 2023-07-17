@@ -86,5 +86,6 @@ int main()
     options['c'] = std::make_pair(4.0, 7);
     options['d'] = std::make_pair(2.4, 4);
     knapsackSolver(options, 35);
+    
     return 0;
 }
