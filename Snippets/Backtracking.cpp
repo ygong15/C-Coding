@@ -91,7 +91,7 @@ void printUSCResHelp(std::string str, int len, std::string& choice)
 int main()
 {
     //printAllBin(3);
-    // printALLUSC(3);
+    // printAllUSC(3);
     //printUSCRes(3);
 
     return 0;
